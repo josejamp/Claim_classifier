@@ -17,4 +17,4 @@ En el notebook viene detallada el experimento que mejor funcionó, aunque se int
   - Se probó a normalizar todos los dígitos del dataset pot el token "<num>".
   - Se entrenó con un número menor de ejemplos de frases no verificables. Se realizaron varias pruebas utilizando en ellas, el 50, 60%, 80% y 90% de los ejemplos negativos disponibles.
   
-En general, estos experimentos resultaban en sobreajustes y en un número de falsos positivos que oscilaba entre el doble y el triple con respecto al experimento que finalmente figura en el notebook.
+Estos experimentos resultaban en sobreajustes y en un número de falsos positivos que oscilaba entre el doble y el triple con respecto al experimento que finalmente figura en el notebook.
